@@ -1,1 +1,1 @@
-# [Selenium](https://www.selenium.dev) for Python
+# [Selenium](https://www.selenium.dev/selenium/docs/api/py/index.html) for Python

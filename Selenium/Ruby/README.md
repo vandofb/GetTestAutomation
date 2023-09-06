@@ -1,1 +1,1 @@
-# [Selenium](https://www.selenium.dev) for Ruby
+# [Selenium](https://www.selenium.dev/selenium/docs/api/rb/index.html) for Ruby

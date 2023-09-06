@@ -1,1 +1,1 @@
-# [Selenium](https://www.selenium.dev) for Javascript
+# [Selenium](https://www.selenium.dev/selenium/docs/api/javascript/index.html) for Javascript
