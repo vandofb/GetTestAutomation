@@ -1,0 +1,1 @@
+# 🎭 [Playwright](https://playwright.dev) | [API reference](https://playwright.dev/docs/api/class-playwright)
